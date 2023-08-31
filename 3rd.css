@@ -1,0 +1,25 @@
+ table{
+    border: 2px solid;
+    height: 30rem;
+    width: 30rem;
+    box-sizing: border-box;
+    margin: 10%;
+    background-color: #000;
+}
+.yellow{
+    background-color: yellow;
+    
+}
+.red{
+    background-color: red;
+}
+.green{
+    background-color: green;
+
+}
+
+table td{
+    box-sizing: border-box;
+    background-color: #fff;
+}
+
